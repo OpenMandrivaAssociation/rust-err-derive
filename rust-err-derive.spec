@@ -5,8 +5,8 @@
 %global crate err-derive
 
 Name:           rust-%{crate}
-Version:        0.2.2
-Release:        2%{?dist}
+Version:        0.3.1
+Release:        1%{?dist}
 Summary:        Derive macro for `std::error::Error`
 
 # Upstream license specification: MIT/Apache-2.0
